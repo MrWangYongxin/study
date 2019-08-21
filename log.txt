@@ -1,0 +1,1 @@
+我是PrintWriter跟PrintStream用法一样的
